@@ -7,7 +7,7 @@ public static function Read($type);
 
 }
 
-class carFactory implements readDate {
+class Factory implements readDate {
 
 
     public static function Create($type = '') {
